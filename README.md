@@ -12,15 +12,15 @@ git clone <url>
 ```
 2 - Acesse a Pasta do Repositorio
 ```
-cd memorygame
+cd JogoMemoriaReactTS
 ```
 
 3 - Instale as Dependencies
 ```
-yarn i
+npm i
 ```
 
 4 - Rode o Comando
 ```
-yarn dev
+npm run dev
 ```
