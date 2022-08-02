@@ -12,7 +12,7 @@ git clone <url>
 ```
 2 - Acesse a Pasta do Repositorio
 ```
-cd JogoMemoria-ReactTS
+cd JogoDaMemoria-ReactTs
 ```
 
 3 - Instale as Dependencies
